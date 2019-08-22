@@ -1,4 +1,4 @@
-FROM alpine
+FROM ubuntu:latest
 
 MAINTAINER Michael Heinrich <michael.heinrich@anavs.de>
 
